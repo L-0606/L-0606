@@ -7,4 +7,4 @@
   python openai_api.py 
 -Back-end Run 
   python main.py 
--Front-end Run（localhost:3000）
+

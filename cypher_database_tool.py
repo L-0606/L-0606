@@ -63,7 +63,7 @@ class LLMCypherGraphChain(Chain):
     input_key: str = "question"  #: :meta private:
     output_key: str = "answer"  #: :meta private:
     graph: Neo4jDatabase
-    memory: ReadOnlySharedMemory = None  # 设置一个默认值
+    memory: ReadOnlySharedMemory = None  
 
 
     class Config:
@@ -115,11 +115,10 @@ class LLMCypherGraphChain(Chain):
         return {'answer': context}
 
 if __name__ == "__main__":
-    # 实例化 ChatGLM3
+
     from langchain.chat_models import ChatOpenAI
     import os
     
-   #本地调用接口出错，加上这一句
     os.environ["no_proxy"]='127.0.0.1,localhost'
     llm = ChatOpenAI(
         model_name="ChatGLM3",
@@ -131,16 +130,12 @@ if __name__ == "__main__":
         streaming=True
     )
     
-    # 创建 Neo4jDatabase 实例
     osteosarcoma_graph = Neo4jDatabase(host="bolt://lacolhost:7687",
                              user="neo4j", password="12345")
     memory = ConversationBufferMemory(
         memory_key="chat_history", return_messages=True)
     readonlymemory = ReadOnlySharedMemory(memory=memory)
 
-  
-    
-    # 实例化 LLMCypherGraphChain，并传入聊天记录
     chain = LLMCypherGraphChain(llm=llm, verbose=True, graph=osteosarcoma_graph,memory=readonlymemory)
 
     #try:

@@ -96,7 +96,7 @@ class LLMCypherGraphChain(Chain):
             question=inputs[self.input_key], stop=["Output:"])
 
         print("Cypher Statement:", cypher_statement)
-	#一直报错报错ValueError: Error: 'NoneType' object has no attribute 'on_text'，去掉on
+
         self.callback_manager.text(
             "Generated Cypher statement:", color="green", end="\n", verbose=self.verbose
         )

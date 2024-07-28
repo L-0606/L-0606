@@ -36,7 +36,7 @@ class LLMNeo4jVectorChain(Chain):
     input_key: str = "query"  #: :meta private:
     output_key: str = "result"  #: :meta private:
 
-    embeddings: embedding = HuggingFaceInstructEmbeddings(model_name='instructor-xl') # 使用正确的类型
+    embeddings: embedding = HuggingFaceInstructEmbeddings(model_name='instructor-xl') 
 
     @property
     def input_keys(self) -> List[str]:
@@ -57,9 +57,9 @@ class LLMNeo4jVectorChain(Chain):
         """Embed a question and do vector search."""
         question = inputs[self.input_key]
         logger.debug(f"Vector search input: {question}")
-        embedding = self.embeddings.embed_query(inputs, question)  # 将inputs和question传递给embed_query
+        embedding = self.embeddings.embed_query(inputs, question) 
 
-        print("Embedding:", embedding)  # 添加打印语句
+        print("Embedding:", embedding) 
         self.callback_manager.text(
             "Vector search embeddings:", end="\n", verbose=self.verbose)
         self.callback_manager.text(
@@ -67,7 +67,7 @@ class LLMNeo4jVectorChain(Chain):
         context = self.graph.query(
             vector_search, {'embedding': embedding})
 
-        print("Context:", context)  # 添加打印语句
+        print("Context:", context) 
         return {self.output_key: context}
 
 if __name__ == '__main__':

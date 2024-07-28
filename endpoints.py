@@ -17,12 +17,9 @@ logger = logging.getLogger(__name__)
 graph = Neo4jDatabase(host=host, user=user, password=password)
 print("Neo4jDatabase object created.")
 
-# 尝试连接数据库并执行简单的查询
-try:
-    # 使用 Graph 对象的构造函数来连接数据库
-    graph.graph = Graph(host, auth=(user, password))
 
-    # 尝试运行简单的查询来验证连接
+try:
+    graph.graph = Graph(host, auth=(user, password))
     result = graph.graph.run("MATCH (n) RETURN count(n) as count").data()
     if result:
         print("Database connected successfully.")
@@ -36,7 +33,6 @@ agent_osteosarcoma = OsteosarcomaAgent.initialize(osteosarcoma_graph=graph, neo4
                                                   model_name=model_name)
 print("OsteosarcomaAgent object initialized.")
 
-# 检查代理是否加载成功
 if agent_osteosarcoma:
     print("Osteosarcoma agent loaded successfully.")
 else:

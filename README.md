@@ -1,7 +1,7 @@
 ## Osteosarcoma LLM 
 
 [![Current devel version: 0.1.0](https://img.shields.io/badge/devel%20version-0.1.0-blue.svg)](https://github.com/L-0606/Osteosarcoma_KGQA/)
-[![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/act.svg)](https://www.repostatus.org/#act)
+[![Project Status: Active – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/09b138b2fa9242229f081cd180f6fc91)](https://app.codacy.com/gh/randef1ned/labyrinth/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 
 ## Introduction

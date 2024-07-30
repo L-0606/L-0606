@@ -10,7 +10,7 @@ This is a single-disease osteosarcoma knowledge graph-based Q&A system incorpora
 
 By manually annotating and integrating more than `20,000` articles on osteosarcoma from Pumbed, we established the first knowledge graph for osteosarcoma. We also applied this graph and chatGLM3 to develop a question-answering model. It can overcome the "illusion" of the large model and help researchers find the knowledge they need more easily and accurately.
 
-![A simple schema of the labyrinth](figures/Figure1.tif)
+![A simple schema of the labyrinth](figures/Figure1.jpg)
 
 ## A notice on operating system compatibility
 - **Python**: We developed this method using python version 3.10.x.

@@ -18,7 +18,7 @@ By manually annotating and integrating more than `20,000` articles on osteosarco
 - **neo4j**:  We developed this method using python version 5.15.0.
 
 ## Before installation
-We used a computer equipped with an RTX 3090 graphics card for the experiment. For stability and improved computing efficiency, we recommend using a computer with RTX 3090 or above.
+We used a computer equipped with an RTX 4090 graphics card for the experiment. For stability and improved computing efficiency, we recommend using a computer with RTX 3090 or above.
 ## usage
 ``` bash
 # Firstly, run the neo4j database. (localhost:7474) 

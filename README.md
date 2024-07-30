@@ -23,9 +23,9 @@ We used a computer equipped with an RTX 3090 graphics card for the experiment. F
 ``` bash
 # Firstly, run the neo4j database. (localhost:7474) 
   neo4j start
-#Secondly, run the ChatGLM3-6b model. (localhost:8000) 
+# Secondly, run the ChatGLM3-6b model. (localhost:8000) 
   python openai_api.py 
-#Back-end Run 
+# Back-end Run 
   python main.py 
 ```
 

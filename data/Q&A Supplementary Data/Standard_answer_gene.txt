@@ -1,0 +1,25 @@
+Mutations in the tumor suppressor genes TP53 and RB1 associated with hereditary diseases such as hereditary retinoblastoma and Li-Fraumeni syndrome have been linked to the development of osteosarcoma. Mutations in genes due to these inherited tumor syndromes can increase an individual's risk of developing osteosarcoma.
+Amplification of the MYC gene has been observed in osteosarcoma, and overexpression of the MYC gene promotes tumor growth and progression.The amplification and overexpression of MYC, a gene involved in cell cycle regulation and cell proliferation, has been associated with the malignant progression of osteosarcoma.
+Genetic evaluation is required for pathologic diagnosis. Due to the diverse histologic manifestations of osteosarcoma, appropriate biopsies and genetic testing by a specialist pathologist are required to ensure a correct pathologic diagnosis.
+Osteosarcoma may express some tumor-specific or tumor-associated antigens, such as MAGE-A1 and HER-2, which are targets of tumor vaccine.
+Several studies have found that PD-L1 expression is high in osteosarcoma cell lines and tissues, and correlates with drug resistance, the level of tumor-infiltrating lymphocytes, and prognosis.
+B7-H3 is an immune checkpoint molecule that may also play an immunosuppressive role in osteosarcoma, making it a potential target for immunotherapy.
+Immunosuppressive molecules such as IDO and CTLA-4 are up-regulated in the microenvironment of osteosarcoma and may be potential targets for immunotherapy.
+Treg cells, MDSC, M2-type TAM, TGF-β, VEGF and other factors in the microenvironment of osteosarcoma may contribute to tumor immune escape through immunosuppression.
+TP53 and RB1 are the most commonly mutated genes in osteosarcoma, which are involved in cell cycle regulation and apoptosis.
+Abnormal expression of c-myc, AP-1, c-fos, TWIST, MMP and IGF-1 is associated with metastasis of osteosarcoma.
+microRNAs such as miR-135b, miR-183, and miR-146b-5p promote invasive metastasis of osteosarcoma by regulating the Wnt/β-catenin and Notch pathways.
+Long chain non-coding RNAs such as LINC00628, DANCR/miR-33a-5p and lncRNA H19 are involved in the regulation of PI3K/Akt and Wnt/β-catenin pathways to promote osteosarcoma metastasis.
+Signaling pathways such as PI3K/Akt, Wnt/β-catenin, MAPK/ERK, and chemokines such as IL-8 and CXCL12 may become new therapeutic targets in osteosarcoma.
+Inactivation of TP53 and RB1 genes is a common molecular genetic alteration in osteosarcoma.
+The literature mentions that innovative treatments such as immune checkpoint inhibitors and CAR-T cells are being investigated.
+Osteosarcoma is characterized by highly complex genomic alterations, such as chromosome fragmentation syndromes and numerous structural variants.
+Osteosarcoma can be classified into 6 molecular subtypes based on alterations in key signaling pathways, each with different potential targeted therapeutic strategies.
+Osteosarcoma has a high tumor mutation load, and the expression level of immune-related genes is associated with prognosis.
+IGF pathway, PI3K/AKT/mTOR pathway, CDK, Aurora kinase, etc. may be potential targets.
+Inactivation of TP53 and RB1, amplification of 6p, 8q, 4q, 12q and 17p are common genetic alterations in highly malignant osteosarcoma.
+MDM2 amplification is common in low-grade osteosarcoma, especially parosteal type, and is helpful in differential diagnosis.
+IDH mutation is rare in osteosarcoma, but more common in chondrosarcoma, which can be used for differential diagnosis.
+H3F3A gene mutation can be seen in some malignant osteochondromas, but rarely in osteosarcomas.
+FOS gene rearrangement is commonly seen in osteoblastoma, while USP6 gene rearrangement is seen in primary aneurysmal bone cysts, which can be used for differential diagnosis.
+ATRX gene mutation can activate ALT pathway to lengthen telomeres and promote the non-aging of osteosarcoma cells, which provides the basis for its targeted therapy (paragraph 44-46).

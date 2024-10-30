@@ -1,0 +1,25 @@
+Disorders of the Wnt signaling pathway are associated with the development of osteosarcoma, and activation of the Wnt signaling pathway can lead to aberrant cell proliferation and differentiation, thus promoting tumor development.The Wnt signaling pathway plays an important role in bone development, and its disruption may be a key factor in the development of osteosarcoma.
+Disorders of the PI3K/Akt/mTOR signaling pathway have been observed in osteosarcoma. Activation of this pathway enhances tumor cell survival, proliferation, and angiogenesis.PI3K/mTOR pathway is an important signaling pathway for cell growth and survival, and its aberrant activation may be a mechanism for the malignant phenotype of osteosarcoma.
+Aberrant activation of the Notch signaling pathway is associated with osteosarcoma, and disorders of the Notch signaling pathway may promote tumor cell survival and proliferation.The Notch pathway is involved in the regulation of cell proliferation and differentiation, and its dysregulation may be an important mechanism in the development of osteosarcoma.
+The article mentions that PDGF and its receptor have been found to be overexpressed in some osteosarcomas and are involved in the proliferation and differentiation of osteoblasts. Aberrant activation of the growth factor signaling pathway may be another mechanism for the development of osteosarcoma.
+Aberrant activation of the SRC pathway and the hedgehog pathway is associated with the development of osteosarcoma. Disturbances in these signaling pathways may also be an important factor contributing to the malignant phenotype of osteosarcoma.
+The interaction between PD-1 and its ligand PD-L1 inhibits T-cell function and allows osteosarcoma cells to escape from immunosurveillance.The high expression of PD-L1 in osteosarcoma is associated with a poor prognosis.
+CTLA-4 is another immune checkpoint molecule that can participate in the immune escape process of osteosarcoma by inhibiting T cell activation.
+TGF-β is highly expressed in the microenvironment of osteosarcoma, which can inhibit the function of T cells, promote the proliferation of immunosuppressive cells such as Treg and MDSC, and create an immune microenvironment conducive to tumor growth.
+It is also mentioned that over-activation of signaling pathways such as STAT3, VEGF and IL-10 may also be involved in the immune escape of osteosarcoma by regulating immunosuppressive cells.
+Targeting these immunosuppressive signaling pathways, such as PD-1/PD-L1, CTLA-4, and TGF-β, may be an effective strategy to improve the outcome of immunotherapy for osteosarcoma.
+Abnormal activation of PI3K/Akt signaling pathway can promote migration and invasion of osteosarcoma through various mechanisms.
+The Wnt/β-catenin pathway is widely activated in osteosarcoma and promotes the invasion and metastasis of osteosarcoma through the regulation of related genes.
+Aberrant activation of the MAPK/ERK pathway promotes the invasion and metastasis of osteosarcoma through downstream effector molecules.
+The Hedgehog signaling pathway is widely activated in osteosarcoma and can promote the invasion and metastasis of osteosarcoma through interaction with other pathways.
+Aberrant activation of Notch signaling pathway can promote the invasion and metastasis of osteosarcoma by regulating EMT and other processes.
+Abnormal cell cycle pathways regulated by CDK2, CDK4/6 and Aurora kinase have been identified in osteosarcoma and may be potential targets.
+Due to extensive DNA structural variation, DNA repair pathways such as the ATR pathway may be targets for osteosarcoma therapy.
+Dysregulation of immune checkpoint pathways such as PD-1/PD-L1, CTLA-4, and CD47 is involved in immune escape from osteosarcoma.
+Osteosarcomas usually have complex chromosomal numerical and structural abnormalities that may arise from a single catastrophic event such as chromosome fragmentation.
+Inactivation of the TP53 and RB1 genes is one of the most common molecular genetic alterations in osteosarcoma.
+Amplification of the 12q13-15 region involving the MDM2 and CDK4 genes is common in low-grade osteosarcoma and is useful for differential diagnosis.
+IDH mutations are common in chondrosarcoma and extremely rare in osteosarcoma and can be used for differential diagnosis.
+FOS rearrangement is characteristic of osteoblastoma, while USP6 rearrangement is seen in primary aneurysmal bone cysts, which is different from osteosarcoma.
+The VEGF/VEGFR pathway can accelerate the progression of osteosarcoma by promoting tumor angiogenesis, and has become an important anti-angiogenic target.
+PDGF/PDGFR pathway can affect the proliferation and metastasis of osteosarcoma cells, and is a potential target for therapy.

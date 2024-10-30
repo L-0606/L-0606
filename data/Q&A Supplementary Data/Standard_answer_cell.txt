@@ -1,0 +1,25 @@
+Osteosarcoma is characterized by the proliferation of malignant mesenchymal tumor cells and the production of bone-like matrix and/or immature bone by these tumor cells. These cytologic features are key to the diagnosis of osteosarcoma.
+According to the WHO classification, osteosarcoma is divided into three subtypes: osteoid, cartilaginous and fibrous, which reflect the main types of tumor stroma. There are differences in the type of stroma produced by tumor cells of different subtypes.
+Superficial osteosarcomas are usually low-grade type I or intermediate-grade type II tumors, whereas classic central osteosarcomas are almost always high-grade type III malignancies. In other words, superficial osteosarcomas are relatively less malignant, whereas classic central osteosarcomas are more malignant.
+NK cells, NKT cells, CD8+ cytotoxic T cells and CD4+ T cells in the microenvironment of osteosarcoma are involved in anti-tumor immune response.
+Treg cells, MDSC, M2 type TAM, etc. in the microenvironment of osteosarcoma have immunosuppressive effects and promote tumor immune escape.
+Osteosarcoma cells can secrete exosomes carrying immunosuppressive molecules such as PD-L1 and IDO, which inhibit the functions of T cells and NK cells and lead to immune escape.
+CAF can regulate immunosuppressive cells and angiogenesis through the secretion of TGF-β, VEGF and other factors, creating a favorable immune microenvironment for osteosarcoma cells.
+M2 TAM is associated with metastasis and poor prognosis of osteosarcoma, while M1 TAM has anti-tumor effects. Osteosarcoma cells can escape immune surveillance by modulating the polarization state of TAM.
+Bone marrow mesenchymal stem cells (MSCs), tumor-associated macrophages (TAMs) and other cells in the bone microenvironment are involved in promoting osteosarcoma metastasis.
+MSCs can secrete factors such as IL-6, IL-8, CXCL1, CXCL5, etc., and promote the invasion and metastasis of osteosarcoma by delivering microRNA through exosomes.
+Acidic and hypoxic environments can induce MSCs to secrete a variety of pro-metastatic factors, such as CXCL1, CXCL5, IL-6, IL-8, etc., which can promote the invasion and metastasis of osteosarcoma.
+The CXCL12/CXCR4/CXCR7 axis and the IL-8/CXCR1 axis play an important role in the metastasis of osteosarcoma and can promote the invasion and metastasis of osteosarcoma by activating the related signaling pathways.
+Extracellular vesicles from osteosarcoma cells and MSCs can promote the invasion and metastasis of osteosarcoma by delivering miRNAs and cytokines.
+Osteosarcoma originates from osteoblasts or their precursor cells of the mesenchymal cell line.
+Bone marrow mesenchymal stem cells (MSCs) and M2 tumor-associated macrophages (TAMs) promote osteosarcoma metastasis in the bone microenvironment.
+Extracellular vesicles from osteosarcoma cells and MSCs deliver pro-metastatic signals to regulate the invasive capacity of osteosarcoma.
+Antigens such as GPNMB, LRRC15, HER2, GD2 and B7-H3 are potential targets, and related immunotherapies such as monoclonal antibodies, ADCs and CAR-T are being developed.
+Osteosarcoma cells show a high degree of cellular and nuclear abnormalities, accompanied by a high number of mitotic figures.
+The main matrix types of different subtypes of osteosarcoma vary, including osteoid, cartilaginous and fibrous.
+Different subtypes of osteosarcoma differ in the degree of cell differentiation and stromal composition, resulting in different histologic features.
+SATB2 immunostaining is diffusely positive in most osteoid osteosarcomas, but the specificity is poor.
+High-grade and low-grade osteosarcomas differ in the degree of abnormal nuclear morphology, number of divisions, and aggressiveness.
+Targeting cell cycle regulatory proteins such as CDK4/6 and Aurora kinase can block the proliferation of osteosarcoma cells.
+MDM2 overexpression is common in low-grade osteosarcoma, which can be promoted by regulating p53.
+High expression of CCNE1 can promote the development of osteosarcoma by regulating the G1/S transition in the cell cycle.

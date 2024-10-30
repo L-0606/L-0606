@@ -1,0 +1,111 @@
+Clinical：
+
+What are the main clinical symptoms of osteosarcoma?
+Where are the most common sites of osteosarcoma?
+What is the incidence of metastasis of osteosarcoma?
+What is the role of preoperative and postoperative chemotherapy in the treatment of osteosarcoma?
+What is the treatment for local recurrence and recurrence of lung metastases?
+What is the current standard of care for osteosarcoma?
+What are the most important factors affecting the prognosis of patients with osteosarcoma?
+What are the major challenges in the treatment of osteosarcoma?
+What is the status of immunotherapy in the treatment of osteosarcoma?
+What are the possible advantages of immunotherapy?
+What are the main metastatic sites of osteosarcoma?
+What are the main factors affecting the prognosis of osteosarcoma?
+What is the role of bone microenvironment in the treatment of osteosarcoma?
+What are the main characteristics of osteosarcoma?
+What is the treatment strategy for osteosarcoma?
+What is the role of chemotherapy in the treatment of osteosarcoma?
+What is the role of surgery in the treatment of osteosarcoma?
+What is the scenario for radiotherapy in the management of osteosarcoma?
+What are the common chemotherapy regimens for osteosarcoma?
+What is the prognosis for recurrent/metastatic osteosarcoma?
+What is the current status of research on novel therapies for recurrent/metastatic osteosarcoma?
+What are the clinical features of highly malignant centralized osteosarcoma?
+What are the prognostic differences between different subtypes of osteosarcoma?
+What clinical information is needed to diagnose osteosarcoma?
+What is the impact of clinical staging on the choice of treatment for osteosarcoma?
+
+Genetic:
+
+What are the major genetic mutations associated with the development of osteosarcoma?
+Which gene amplifications are associated with the development and progression of osteosarcoma?
+What genetic tests are important in the diagnosis of osteosarcoma?
+What are the tumor antigens of osteosarcoma?
+What is the expression of PD-L1 in osteosarcoma?
+What is the role of B7-H3 in osteosarcoma?
+What are the other genes/molecules in osteosarcoma that may become immunotherapeutic targets?
+What cells/factors are involved in immune escape in the tumor microenvironment of osteosarcoma?
+What are the common genetic alterations in osteosarcoma?
+What genes are associated with metastasis of osteosarcoma?
+What is the role of microRNAs in osteosarcoma metastasis?
+What is the role of long chain non-coding RNAs in osteosarcoma?
+Which molecules in osteosarcoma may be potential therapeutic targets?
+What are the common genetic alterations in osteosarcoma?
+What are the therapeutic studies on molecular targets for osteosarcoma?
+What are the genomic features of osteosarcoma?
+What are the characteristics of different molecular subtypes of osteosarcoma?
+What is the immunogenetic profile of osteosarcoma?
+What are the genes or pathways that could be therapeutic targets for osteosarcoma?
+What are the common genetic changes in highly malignant central osteosarcoma?
+What is the significance of MDM2 gene amplification in osteosarcoma?
+What is the significance of IDH mutation in osteosarcoma?
+What is the significance of H3F3A mutation in osteosarcoma?
+What is the significance of FOS and USP6 genes in osteosarcoma?
+What is the role of ATRX gene in osteosarcoma?
+
+Cellular:
+
+What are the main cytologic features of osteosarcoma tumor cells?
+What are the differences in the cytologic manifestations of different subtypes of osteosarcoma?
+What are the differences in cytologic grading and malignancy between superficial osteosarcoma and classic central osteosarcoma?
+Which immune cells in the microenvironment of osteosarcoma are involved in the anti-tumor immune response?
+What immunosuppressive cells in the microenvironment of osteosarcoma are involved in tumor immune escape?
+How do osteosarcoma cells mediate immune escape by secreting exosomes?
+How do osteosarcoma cells use tumor-associated fibroblasts (CAF) to build an immunosuppressive microenvironment?
+How do osteosarcoma cells use tumor-associated macrophages (TAM) to promote immune escape?
+Which cells in the bone microenvironment are involved in promoting osteosarcoma metastasis?
+How do MSCs promote osteosarcoma metastasis by secreting factors and releasing exosomes?
+How do the acidic and hypoxic environments of bone microenvironment affect the metastasis of osteosarcoma?
+How does chemokine in the bone microenvironment participate in the metastatic process of osteosarcoma?
+What is the role of extracellular vesicles in the bone microenvironment in osteosarcoma metastasis?
+What is the cellular origin of osteosarcoma?
+What cells in the bone microenvironment are involved in regulating the progression of osteosarcoma?
+What is the role of extracellular vesicles in the malignant progression of osteosarcoma?
+What are the therapeutic strategies to target osteosarcoma cell surface antigens?
+What are the morphological characteristics of osteosarcoma cells?
+What are the characteristics of osteosarcoma cells that produce bone matrix or cartilage matrix?
+What are the reasons for the morphological heterogeneity of osteosarcoma among different subtypes?
+What is the role of SATB2 in the diagnosis of osteosarcoma?
+What are the differences in cell morphology and biological behavior of different subtypes of osteosarcoma?
+What is the therapeutic significance of targeting cell cycle proteins in osteosarcoma?
+What is the role of MDM2 in the development of osteosarcoma?
+What is the significance of CCNE1 in osteosarcoma?
+
+Pathways:
+
+What is the role of Wnt signaling pathway in the development of osteosarcoma?
+What is the role of PI3K/mTOR signaling pathway in osteosarcoma?
+What is the role of Notch signaling pathway in the development of osteosarcoma?
+What is the role of growth factor signaling pathway in osteosarcoma?
+What other signaling pathways may be involved in the development of osteosarcoma?
+What is the role of PD-1/PD-L1 signaling pathway in immune escape from osteosarcoma?
+What is the role of CTLA-4 signaling pathway in the immune escape of osteosarcoma?
+What is the role of TGF-β signaling pathway in the immune escape of osteosarcoma?
+What other signaling pathways may be involved in the immune escape of osteosarcoma?
+What is the potential of interventions targeting these signaling pathways in the treatment of osteosarcoma?
+What is the role of PI3K/Akt signaling pathway in osteosarcoma metastasis?
+What is the role of Wnt/β-catenin signaling pathway in osteosarcoma metastasis?
+What is the role of MAPK/ERK signaling pathway in osteosarcoma metastasis?
+What is the role of Hedgehog signaling pathway in osteosarcoma metastasis?
+What is the role of Notch signaling pathway in osteosarcoma metastasis?
+What is the role of cell cycle regulatory pathway in osteosarcoma?
+What is the role of DNA damage repair pathway in osteosarcoma?
+What is the role of immune-related pathways in the microenvironment of osteosarcoma?
+What is the role of chromosome fragmentation in osteosarcoma development?
+What is the role of TP53 and RB1 genes in osteosarcoma?
+What is the role of 12q13-15 region amplification in osteosarcoma?
+What is the significance of IDH mutation in the differential diagnosis between osteosarcoma and chondrosarcoma?
+What is the significance of FOS and USP6 genes in the differential diagnosis of osteosarcoma?
+What is the role of VEGF/VEGFR pathway in osteosarcoma?
+What is the role of PDGF/PDGFR pathway in osteosarcoma?
